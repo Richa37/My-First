@@ -3,7 +3,7 @@
 
 Template Name: Dodmond
 File: Licence
-Author: OS Templates
+
 Author URI: http://www.os-templates.com/
 Licence URI: http://www.os-templates.com/template-terms
 

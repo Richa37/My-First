@@ -9,7 +9,7 @@ Licence URI: http://www.os-templates.com/template-terms
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Doodle
 IPR
 ---
 
@@ -37,7 +37,9 @@ This template can be used for private and commercial websites under the followin
 
     * You can not rent, lease, sell or offer our templates for sale. This also includes offering our templates as part of a product package. You can sell your services but not our templates.
 
+'
 
+First
 
 ATTRIBUTION
 -----------
